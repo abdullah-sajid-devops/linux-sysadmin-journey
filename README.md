@@ -1,29 +1,42 @@
-# 🚀 Linux & Cloud DevOps Journey
+# 🚀 100 Days of DevOps & Cloud Engineering Challenge
 
-Welcome to my central engineering repository! This space tracks my daily technical progress, hands-on enterprise labs, configurations, and scripts as I build robust foundations in Linux System Administration, AWS Cloud Infrastructure, and DevOps practices.
-
----
-
-## 🗺️ Project Roadmap & Progress Tracker
-
-| Day | Core Focus Topic | Key Deliverables & Practical Labs | Status |
-| :---: | :--- | :--- | :---: |
-| **01** | AWS Cloud Infrastructure | Provisioning Ubuntu 24.04 LTS, Stateful Security Groups, RSA Key-Pairs | ✅ Done |
-| **02** | Linux Storage & FHS | VFS Abstraction, Inode Constraints, Journaling Mechanics, Standard Paths Mapping | ✅ Done |
-| **03** | Basic Terminal Commands | Navigating the Shell, File Manipulations, Environment Inspection | ⏳ Next |
-| **04** | File Permissions & ACLs | User/Group Management, Chmod/Chown Mechanics, Special Permissions | ⏳ Planned |
+Welcome to my intensive 100-day hands-on learning journey! This repository serves as a live documentation of my technical progress as I master Linux System Administration, AWS Cloud Infrastructure, Automation Pipelines, and Enterprise DevOps methodologies.
 
 ---
 
-## 🛠️ Environment Blueprint
-* **Cloud Provider:** AWS (Amazon Web Services)
-* **Compute Node (EC2):** Ubuntu Server (LTS)
-* **Shell Environment:** Bash
-* **Source Control:** Git/GitHub
+## 📈 Challenge Dashboard
+
+*   **Current Phase:** Phase 1: Linux Core Foundations & SysAdmin
+*   **Target Role:** DevOps & Cloud Infrastructure Engineer
+*   **Learning Source:** GeeksforGeeks (Linux Tracks) & Live Labs
 
 ---
 
-## 📈 Learning Goal
-The core objective of this journey is to master low-level operating system architecture and cloud networking to deploy highly available, fault-tolerant, and automated infrastructure pipelines.
+## 🗓️ 100-Day Progress Tracker
 
-*Keep pushing code, one commit at a time.* 🐧✨
+| Day | Topic / Technology | Key Concepts & Labs Mastered | Documentation Link | Status |
+| :---: | :--- | :--- | :---: | :---: |
+| **01** | Linux IAM & Permissions | User management, root access, security control | *In Active History* | ✅ |
+| **02** | Linux Storage Architecture | Storage management, 500 MB partitioning, logical layouts | *In Active History* | ✅ |
+| **03** | Filesystem Hierarchy (FHS) | Single root structure `/`, `/bin`, `/etc`, `/var`, `/proc` deep dive | *In Active History* | ✅ |
+| **04** | Core Linux CLI Utilities | Mastered 25 basic commands (`df -h`, `ps aux`, `grep`, `wc -l`, etc.) | [View Day 4 Lab](./Day_04_Linux_Basic_Commands.md) | ✅ |
+| **05** | *Upcoming Topic* | Next GFG Module: Input/Output Redirection & Package Managers | *Pending* | ⏳ |
+
+---
+
+## 🛠️ Technical Stack & Environment
+
+*   **Operating System:** Linux Ubuntu Server (AWS EC2 / Local VM)
+*   **Cloud Platform:** AWS Cloud Services & Core Infrastructure
+*   **Documentation:** Managed and verified directly via GitHub & LinkedIn
+
+---
+
+## 🎯 Repository Goals
+
+1.  Maintain a strict daily **GitHub Commit Streak** to log code and environment configurations.
+2.  Implement the **Principle of Least Privilege (PoLP)** across all system configuration labs.
+3.  Transition smoothly from basic sysadmin operations to complete CI/CD multi-container deployment automation.
+
+---
+*Follow my daily updates on LinkedIn! Stronger pipelines start with structured, relentless learning.* 🔥
