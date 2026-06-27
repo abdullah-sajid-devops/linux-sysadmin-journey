@@ -19,7 +19,7 @@ Welcome to my intensive 100-day hands-on learning journey! This repository serve
 | **01** | Linux IAM & Permissions | User management, root access, security control | *In Active History* | ✅ |
 | **02** | Linux Storage Architecture | Storage management, 500 MB partitioning, logical layouts | *In Active History* | ✅ |
 | **03** | Filesystem Hierarchy (FHS) | Single root structure `/`, `/bin`, `/etc`, `/var`, `/proc` deep dive | *In Active History* | ✅ |
-| **04** | Core Linux CLI Utilities | Mastered 25 basic commands (`df -h`, `ps aux`, `grep`, `wc -l`, etc.) | [View Day 4 Lab](./Day_04_Linux_Basic_Commands.md) | ✅ |
+| **04** | Core Linux CLI Utilities | Mastered 25 basic commands (`df -h`, `ps aux`, `grep`, `wc -l`, etc.) | [View Day 4 Lab](./Day04-Linux-Basic-Commands.md) | ✅ |
 | **05** | *Upcoming Topic* | Next GFG Module: Input/Output Redirection & Package Managers | *Pending* | ⏳ |
 
 ---
