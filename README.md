@@ -20,8 +20,9 @@ Welcome to my intensive 100-day hands-on learning journey! This repository serve
 | 02 | Linux Storage Architecture | Storage management, 500 MB partitioning, logical layouts | In Active History | ✅ |
 | 03 | Filesystem Hierarchy (FHS) | Single root structure `/`, `/bin`, `/etc`, `/var`, `/proc` deep dive | In Active History | ✅ |
 | 04 | Core Linux CLI Utilities | Mastered 25 basic commands (`df -h`, `ps aux`, `grep`, `wc -l`, etc.) | [View Day 4 Lab](https://github.com/abdullah-sajid-devops/linux-cloud-devops-journey/blob/main/Day04-Linux-Basic-Commands.md) | ✅ |
-| 05 | Linux File Operational Commands | Practiced 20 file commands — `cat`, `diff`, `cp`, `ln`, `locate`, `head`, `less`, `cksum` & more | [View Day 5 Lab](https://github.com/abdullah-sajid-devops/linux-cloud-devops-journey/blob/main/Day05-File-Operations.md) | ✅ |
-| 06 | Directory Operations Commands | Next GFG Module | Pending | ⏳ |
+| 05 | Linux File Operational Commands Part 1 | Practiced 20 file commands — `cat`, `diff`, `cp`, `ln`, `locate`, `head`, `less`, `cksum` & more | [View Day 5 Lab](https://github.com/abdullah-sajid-devops/linux-cloud-devops-journey/blob/main/Day05-File-Operations.md) | ✅ |
+| 06 | Linux File Operational Commands Part 2 | Completed remaining 20 file commands — `mv`, `tail -f`, `tar`, `tee`, `sort`, `uniq`, `wc`, `shred` & more | [View Day 6 Lab](https://github.com/abdullah-sajid-devops/linux-cloud-devops-journey/blob/main/Day06-File-Operations-Part2.md) | ✅ |
+| 07 | Directory Operations Commands | Next GFG Module | Pending | ⏳ |
 
 ---
 
@@ -41,6 +42,4 @@ Welcome to my intensive 100-day hands-on learning journey! This repository serve
 
 ---
 
-*Follow my daily updates on LinkedIn! www.linkedin.com/in/abdullah-sajid-azure
-
- Stronger pipelines start with structured, relentless learning.* 🔥
+*Follow my daily updates on LinkedIn! Stronger pipelines start with structured, relentless learning.* 🔥
