@@ -64,3 +64,28 @@ hands-on on a live Ubuntu Server as part of my
 ---
 
 ## Permission String Breakdown
+
+-rwxr--r-x
+|||||||||||
+|||||||||└─ Others: execute
+||||||||└── Others: no write
+|||||||└─── Others: read
+||||||└──── Group: no execute
+|||||└───── Group: no write
+||||└────── Group: read
+|||└─────── Owner: execute
+||└──────── Owner: write
+|└───────── Owner: read
+└────────── File type (- = file, d = directory)
+
+---
+
+## Environment
+- **OS:** Ubuntu Server (AWS EC2)
+- **Source:** GeeksForGeeks Linux Track
+- **Status:** ✅ All commands practiced on live terminal
+
+---
+
+*Part of my 100 Days DevOps & Cloud Engineering Challenge*
+*Follow my journey: [LinkedIn](https://www.linkedin.com/in/abdullah-sajid-azure)*
