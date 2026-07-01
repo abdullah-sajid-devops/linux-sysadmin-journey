@@ -63,23 +63,6 @@ hands-on on a live Ubuntu Server as part of my
 
 ---
 
-## Permission String Breakdown
-
--rwxr--r-x
-|||||||||||
-|||||||||└─ Others: execute
-||||||||└── Others: no write
-|||||||└─── Others: read
-||||||└──── Group: no execute
-|||||└───── Group: no write
-||||└────── Group: read
-|||└─────── Owner: execute
-||└──────── Owner: write
-|└───────── Owner: read
-└────────── File type (- = file, d = directory)
-
----
-
 ## Environment
 - **OS:** Ubuntu Server (AWS EC2)
 - **Source:** GeeksForGeeks Linux Track
