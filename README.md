@@ -50,4 +50,6 @@ Enterprise DevOps methodologies.
 
 ---
 
-*Follow my daily updates on LinkedIn! Stronger pipelines start with structured, relentless learning.* 🔥
+*Follow my daily updates on LinkedIn! www.linkedin.com/in/abdullah-sajid-azure
+
+Stronger pipelines start with structured, relentless learning.* 🔥
