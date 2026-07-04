@@ -30,7 +30,8 @@ Enterprise DevOps methodologies.
 | 08 | File Permissions & Ownership | Mastered `chmod`, `chattr`, `chown`, `chgrp` — numeric permissions, immutable files & ownership management | [View Day 8 Lab](https://github.com/abdullah-sajid-devops/linux-cloud-devops-journey/blob/main/Day08-File-Permissions-Ownership.md) | ✅ |
 | 09 | User Management Commands | Practiced 15 commands — `useradd`, `userdel`, `usermod`, `passwd`, `chage`, `who`, `whoami` & more | [View Day 9 Lab](https://github.com/abdullah-sajid-devops/linux-cloud-devops-journey/blob/main/Day09-User-Management.md) | ✅ |
 | 10 | Group Management Commands | Mastered 7 commands — `groupadd`, `groupdel`, `groupmod`, `gpasswd`, `groups`, `grpck`, `grpconv` | [View Day 10 Lab](https://github.com/abdullah-sajid-devops/linux-cloud-devops-journey/blob/main/Day10-Group-Management.md) | ✅ |
-| 11 | Next Linux Module | Upcoming | Pending | ⏳ |
+| 11 | Process Management Commands | Practiced 18 commands — `ps`, `top`, `htop`, `kill`, `strace`, `vmstat`, `uptime` & more | [View Day 11 Lab](https://github.com/abdullah-sajid-devops/linux-cloud-devops-journey/blob/main/Day11-Process-Management.md) | ✅ |
+| 12 | Next Linux Module | Upcoming | Pending | ⏳ |
 
 ---
 
