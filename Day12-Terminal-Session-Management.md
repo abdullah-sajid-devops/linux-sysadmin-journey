@@ -79,4 +79,4 @@ With `screen` — task keeps running in background!
 ---
 
 *Part of my 100 Days DevOps & Cloud Engineering Challenge*
-*Follow my journey: [LinkedIn](https://www.linkedin.com/in/abdullah-sajid-azur)*
+*Follow my journey: [LinkedIn](https://www.linkedin.com/in/abdullah-sajid-azure)*
