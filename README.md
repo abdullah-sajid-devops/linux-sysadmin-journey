@@ -33,7 +33,8 @@ Enterprise DevOps methodologies.
 | 11 | Process Management Commands | Practiced 18 commands — `ps`, `top`, `htop`, `kill`, `strace`, `vmstat`, `uptime` & more | [View Day 11 Lab](https://github.com/abdullah-sajid-devops/linux-cloud-devops-journey/blob/main/Day11-Process-Management.md) | ✅ |
 | 12 | Terminal & Session Management | Mastered 8 commands — `screen`, `tty`, `stty`, `reset`, `chvt`, `agetty` & more | [View Day 12 Lab](https://github.com/abdullah-sajid-devops/linux-cloud-devops-journey/blob/main/Day12-Terminal-Session-Management.md) | ✅ |
 | 13 | Job Scheduling Commands | Practiced 6 commands — `crontab`, `cron`, `atd`, `atq`, `atrm`, `batch` | [View Day 13 Lab](https://github.com/abdullah-sajid-devops/linux-cloud-devops-journey/blob/main/Day13-Job-Scheduling.md) | ✅ |
-| 14 | Next Linux Module | Upcoming | Pending | ⏳ |
+| 14 | Disk & File System Commands | Mastered 9 commands — `fdisk`, `cfdisk`, `df`, `mount`, `dump`, `restore`, `sync` & more | [View Day 14 Lab](https://github.com/abdullah-sajid-devops/linux-cloud-devops-journey/blob/main/Day14-Disk-FileSystem-Commands.md) | ✅ |
+| 15 | Next Linux Module | Upcoming | Pending | ⏳ |
 
 ---
 
