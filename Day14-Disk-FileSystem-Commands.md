@@ -86,4 +86,4 @@ df          fdisk       mkfs      mount         dump
 ---
 
 *Part of my 100 Days DevOps & Cloud Engineering Challenge*
-*Follow my journey: [LinkedIn](https://www.linkedin.com/in/abdullah-sajid-devops)*
+*Follow my journey: [LinkedIn](https://www.linkedin.com/in/abdullah-sajid-azure)*
