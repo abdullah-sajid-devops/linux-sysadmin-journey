@@ -34,4 +34,4 @@ Cisco Networking Academy track.
 
 ## 📜 Certificate
 
-![Linux Unhatched Certificate](./certificates/Linux_Unhatched_Certificate.png)
+![Linux Unhatched Certificate](./Linux_Unhatched_Certificate.png)
