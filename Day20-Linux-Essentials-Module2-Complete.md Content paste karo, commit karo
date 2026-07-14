@@ -20,14 +20,14 @@ wrong, and reattempting instead of just moving on.
 
 ## 📖 Concepts Solidified on Retake
 
-- **Software Release Cycles** — stability-focused releases (RHEL, Debian) 
-  vs. fast-moving releases (Fedora, openSUSE Tumbleweed) — different 
+- **Software Release Cycles** -- stability-focused releases (RHEL, Debian) 
+  vs. fast-moving releases (Fedora, openSUSE Tumbleweed) -- different 
   priorities for enterprises vs. developers
-- **Linux vs. UNIX Architecture** — how Linux relates to the broader 
+- **Linux vs. UNIX Architecture** -- how Linux relates to the broader 
   UNIX family, including where macOS fits into that lineage
-- **Backward Compatibility** — how older software continues to run on 
+- **Backward Compatibility** -- how older software continues to run on 
   newer systems
-- **Embedded Systems & IoT** — Linux isn't limited to servers — it also 
+- **Embedded Systems & IoT** -- Linux isn't limited to servers -- it also 
   runs on embedded devices, smart TVs, and IoT hardware
 
 ---
