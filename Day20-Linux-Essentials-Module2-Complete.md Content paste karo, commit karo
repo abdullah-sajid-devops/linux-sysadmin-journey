@@ -1,0 +1,43 @@
+# Day 20: NDG Linux Essentials — Module 2 Complete (100% Score) 🐧💯
+
+Welcome to Day 20 of my Linux System Administration & DevOps journey. 
+Following yesterday's first attempt at the Chapter 2 exam (Day 19), 
+I went back through the concepts I got wrong, reattempted the exam, 
+and closed out Module 2 with a perfect score.
+
+---
+
+## 📊 Exam Progress
+
+- **Day 19 — First attempt:** ~30%
+- **Day 20 — After review & retake:** **100%**
+
+The gap between the two attempts is where the real learning happened — 
+going back to the documentation, understanding *why* an answer was 
+wrong, and reattempting instead of just moving on.
+
+---
+
+## 📖 Concepts Solidified on Retake
+
+- **Software Release Cycles** — stability-focused releases (RHEL, Debian) 
+  vs. fast-moving releases (Fedora, openSUSE Tumbleweed) — different 
+  priorities for enterprises vs. developers
+- **Linux vs. UNIX Architecture** — how Linux relates to the broader 
+  UNIX family, including where macOS fits into that lineage
+- **Backward Compatibility** — how older software continues to run on 
+  newer systems
+- **Embedded Systems & IoT** — Linux isn't limited to servers — it also 
+  runs on embedded devices, smart TVs, and IoT hardware
+
+---
+
+## 🔜 Next Step
+
+Moving on to **Module 3** of NDG Linux Essentials.
+
+---
+
+## 📊 Progress
+**Course:** NDG Linux Essentials (Cisco Networking Academy)
+**Modules Completed:** 2 / 18 ✅
