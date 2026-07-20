@@ -53,7 +53,8 @@ Part of my 100 Days DevOps & Cloud Engineering Challenge.
 | 23 | Private Cloud Servers — ownCloud & Nextcloud | Private cloud deployment, ownCloud (2010), Nextcloud fork (2016), GNU AGPLv3 license | [View Lab](Day23-Private-Cloud-Servers.md) | ✅ |
 | 24 | Database Servers — MariaDB & MySQL | MariaDB as a MySQL fork, SQL, data retrieval, DevOps deployment use cases | [View Lab](Day24-Database-Servers.md) | ✅ |
 | 25 | Network Infrastructure — Email, DNS, DHCP, File Sharing | MTA/MDA, POP/IMAP, Dovecot, Samba, NFS, DNS, LDAP, DHCP | [View Lab](Day25-Network-Infrastructure.md) | ✅ |
-| 26 | Next Module | Upcoming | — | 🏗️ |
+| 26 | Linux's Desktop Ecosystem, Email Desktop Clients, Text Editors | Shell, Modern shells, Shell families, Creative Tools, Office Suites, Web Browsers | [View Lab](Day26-Linux-Desktop-GUI.md) | ✅ |
+| 27 | Next Module | Upcoming | — | 🏗️ |
 
 ---
 
