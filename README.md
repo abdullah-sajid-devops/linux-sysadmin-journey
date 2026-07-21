@@ -11,7 +11,7 @@ Part of my 100 Days DevOps & Cloud Engineering Challenge.
 - **Current Phase**: Linux Core Foundations & SysAdmin
 - **Target Role**: DevOps & Cloud Infrastructure Engineer
 - **Learning Source**: Cisco Networking Academy (NDG Linux)
-- **LinkedIn**: [abdullah-sajjid-azure](#)
+- **LinkedIn**: [www.linkedin.com/in/abdullah-sajid-azure](#)
 
 ---
 
