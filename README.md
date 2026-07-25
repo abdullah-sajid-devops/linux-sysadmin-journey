@@ -57,7 +57,8 @@ Part of my 100 Days DevOps & Cloud Engineering Challenge.
 | 27 | Command Line Skills | Bash shell, prompt structure, commands/options/arguments, ls -l -r -h | [View Lab](Day27-Command-Line-Skills.md) | ✅ |
 | 28 | Linux Variables & Shell Internals | Local vs environment variables, export, unset, $PATH lookup, PATH mistakes | [View Lab](Day28-Linux-Variables-PATH.md) | ✅ |
 | 29 | Command Types — Internal vs External | Builtins vs binaries, type vs which, aliases vs functions, .bashrc persistence | [View Lab](Day29-Command-Types.md) | ✅ |
-| 30 | Next Module | Upcoming | — | 🏗️ |
+| 30 | Bash Quoting & Execution Control | Double/single quotes, backslash, command substitution, `;` `&&` `\|\|` operators | [View Lab](Day30-Bash-Quoting-Execution-Control.md) | ✅ |
+| 31 | Next Module | Upcoming | — | 🏗️ |
 
 ---
 
