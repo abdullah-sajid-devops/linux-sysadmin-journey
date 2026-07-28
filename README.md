@@ -59,7 +59,8 @@ Part of my 100 Days DevOps & Cloud Engineering Challenge.
 | 29 | Command Types — Internal vs External | Builtins vs binaries, type vs which, aliases vs functions, .bashrc persistence | [View Lab](Day29-Command-Types.md) | ✅ |
 | 30 | Bash Quoting & Execution Control | Double/single quotes, backslash, command substitution, `;` `&&` `\|\|` operators | [View Lab](Day30-Bash-Quoting-Execution-Control.md) | ✅ |
 | 31 | Chapter 5 Complete — Command Line Assessment | Chapter 5 exam passed with 90% — command substitution, quoting, control operators | [View Lab](Day31-Chapter5-Complete.md) | ✅ |
-| 32 | Next Module — Chapter 6 | Upcoming | — | 🏗️ |
+| 32 | Man Pages & File Searching | man sections, whatis, apropos, whereis, locate, updatedb — quiz scored 90% | [View Lab](Day32-Man-Pages-File-Search.md) | ✅ |
+| 33 | Next Module | Upcoming | — | 🏗️ |
 
 ---
 
