@@ -60,7 +60,8 @@ Part of my 100 Days DevOps & Cloud Engineering Challenge.
 | 30 | Bash Quoting & Execution Control | Double/single quotes, backslash, command substitution, `;` `&&` `\|\|` operators | [View Lab](Day30-Bash-Quoting-Execution-Control.md) | ✅ |
 | 31 | Chapter 5 Complete — Command Line Assessment | Chapter 5 exam passed with 90% — command substitution, quoting, control operators | [View Lab](Day31-Chapter5-Complete.md) | ✅ |
 | 32 | Man Pages & File Searching | man sections, whatis, apropos, whereis, locate, updatedb — quiz scored 90% | [View Lab](Day32-Man-Pages-File-Search.md) | ✅ |
-| 33 | Next Module | Upcoming | — | 🏗️ |
+| 33 | Help & Documentation Systems | GNU info navigation, --help flag, /usr/share/doc for third-party docs | [View Lab](Day33-Help-Documentation-Systems.md) | ✅ |
+| 34 | Next Module | Upcoming | — | 🏗️ |
 
 ---
 
