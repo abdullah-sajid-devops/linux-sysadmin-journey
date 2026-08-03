@@ -65,7 +65,7 @@ Part of my 100 Days DevOps & Cloud Engineering Challenge.
 | 35 | Chapter 7 — Advanced Command Line | Advanced Chapter 7 content leading into ls/cd deep dive | [View Lab](Day35-Chapter7.md) | ✅ |
 | 36 | ls Flags & cd Shortcuts + Chapter 7 Complete | Combining ls flags (-lsa, -Rsa), direct cd path jumps, Chapter 7 exam 90% | [View Lab](Day36-ls-cd-Shortcuts.md) | ✅ |
 | 37 | Day 37 — Linux Essential Commands | — | [View Lab](Day37-Essential-Linux-Commands.md) |
-| 38 | Chapter 8 — File & Directory Management in Linux | — | [View Lab](Day38-Essential-Linux-Commands.md) |
+| 38 | Chapter 8 — File & Directory Management in Linux | — | [View Lab](Day38-File & Directory-Management-in-Linux.md). |
 
 ---
 
