@@ -72,7 +72,7 @@ Part of my 100 Days DevOps & Cloud Engineering Challenge.
 | 36 | ls Flags & cd Shortcuts + Chapter 7 Complete | Combining ls flags (-lsa, -Rsa), direct cd path jumps, Chapter 7 exam 90% | [View Lab](Day36-ls-cd-Shortcuts.md) | ✅ |
 | 37 | Essential Linux Commands — Quick Reference | A recap-style roundup of the most-used commands so far — navigation, permissions, monitoring, networking, help tools | [View Lab](Day37-Essential-Linux-Commands.md) | ✅ |
 | 38 | Globbing, Wildcards & the cp Command | Case sensitivity, UTF-8, glob characters (`* ? [] !`), ls -d, cp basics, overwrite protection (-i/-n), recursive copy (-r/-R) | [View Lab](Day38-Globbing-Wildcards-cp-Command.md) | ✅ |
-| 39 | Project — Linux Server Security & Health Auditor | First hands-on project combining Chapters 1-7: Bash scripting, permissions, user audit, networking, disk/hardware monitoring | [View Project](Day39-Security-Auditor-Project.md) | ✅ |
+| 39 | Project — Linux Server Security & Health Auditor | First hands-on project combining Chapters 1-7: Bash scripting, permissions, user audit, networking, disk/hardware monitoring Click & Check it out | [View Project](Day39-Security-Auditor-Project.md) | ✅ |
 | 40 | Everyday File Management Commands | `mv` (move/rename), `touch` (empty files), `rm` (delete, no recycle bin), `mkdir`, `rmdir` | [View Lab](Day40-mv-touch-rm-mkdir-rmdir.md) | ✅ |
 | 41 | Common Beginner Mistakes in Linux | Reflection post — rm without -i, cp directory errors, silent overwrites, case sensitivity, ls wildcard output | [View Lab](Day41-Common-Beginner-Mistakes.md) | ✅ |
 | 42 | Next Module | Upcoming | — | 🏗️ |
