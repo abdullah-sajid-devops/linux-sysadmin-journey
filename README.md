@@ -76,7 +76,7 @@ Part of my 100 Days DevOps & Cloud Engineering Challenge.
 | 40 | Everyday File Management Commands | `mv` (move/rename), `touch` (empty files), `rm` (delete, no recycle bin), `mkdir`, `rmdir` | [View Lab](Day40-mv-touch-rm-mkdir-rmdir.md) | ✅ |
 | 41 | Common Beginner Mistakes in Linux | Reflection post — rm without -i, cp directory errors, silent overwrites, case sensitivity, ls wildcard output | [View Lab](Day41-Common-Beginner-Mistakes.md) | ✅ |
 | 42 | Chapter 8 Complete — File Management Assessment | Chapter 8 exam passed with 90% — mv, touch, rm, mkdir, rmdir, the -i safety habit | [View Lab](Day42-Chapter8-Complete.md) | ✅ |
-| 43 | Day43-Archiving-Compression.md | Upcoming | — | 🏗️ |
+| 43 | Day43-Archiving-Compression.md | Done | — |  [View Lab](Day43-Archiving-Compression.md) | ✅ | 
 
 ---
 
