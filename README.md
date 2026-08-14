@@ -77,7 +77,8 @@ Part of my 100 Days DevOps & Cloud Engineering Challenge.
 | 41 | Common Beginner Mistakes in Linux | Reflection post — rm without -i, cp directory errors, silent overwrites, case sensitivity, ls wildcard output | [View Lab](Day41-Common-Beginner-Mistakes.md) | ✅ |
 | 42 | Chapter 8 Complete — File Management Assessment | Chapter 8 exam passed with 90% — mv, touch, rm, mkdir, rmdir, the -i safety habit | [View Lab](Day42-Chapter8-Complete.md) | ✅ |
 | 43 | Archiving & Compression + Midterm Exam | Archiving vs compression, gzip/bzip2/xz, tar (-c/-x/-t), zip — Midterm (Modules 1-9) scored 75% | [View Lab](Day43-Archiving-Compression.md) | ✅ |
-| 44 | Next Module | Upcoming | — | 🏗️ |
+| 44 | Text Processing Commands | `cat`, `less`/`more`, `head`/`tail`, pipe (`\|`), `nl`, `sort`, `wc`, `cut`, `grep` | [View Lab](Day44-Text-Processing-Commands.md) | ✅ |
+| 45 | Next Module | Upcoming | — | 🏗️ |
 
 ---
 
