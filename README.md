@@ -10,7 +10,7 @@ Part of my 100 Days DevOps & Cloud Engineering Challenge.
 
 - **Current Phase**: Linux Core Foundations & SysAdmin
 - **Target Role**: DevOps & Cloud Infrastructure Engineer
-- **Learning Source**: Cisco Networking Academy (NDG Linux)
+- **Learning Source**: Cisco Networking Academy (NDG Linux) → transitioning to KodeKloud for hands-on practice
 - **LinkedIn**: [abdullah-sajid-azure](https://www.linkedin.com/in/abdullah-sajid-azure)
 
 ---
@@ -20,7 +20,7 @@ Part of my 100 Days DevOps & Cloud Engineering Challenge.
 | Certificate | Issuer | Score | Date |
 |---|---|---|---|
 | NDG Linux Unhatched | Cisco | 90% | July 2026 |
-| NDG Linux Essentials | Cisco | In Progress | — |
+| NDG Linux Essentials | Cisco | In Progress (6 chapters remaining) | — |
 
 ---
 
@@ -78,7 +78,8 @@ Part of my 100 Days DevOps & Cloud Engineering Challenge.
 | 42 | Chapter 8 Complete — File Management Assessment | Chapter 8 exam passed with 90% — mv, touch, rm, mkdir, rmdir, the -i safety habit | [View Lab](Day42-Chapter8-Complete.md) | ✅ |
 | 43 | Archiving & Compression + Midterm Exam | Archiving vs compression, gzip/bzip2/xz, tar (-c/-x/-t), zip — Midterm (Modules 1-9) scored 75% | [View Lab](Day43-Archiving-Compression.md) | ✅ |
 | 44 | Text Processing Commands | `cat`, `less`/`more`, `head`/`tail`, pipe (`\|`), `nl`, `sort`, `wc`, `cut`, `grep` | [View Lab](Day44-Text-Processing-Commands.md) | ✅ |
-| 45 | Next Module | Upcoming | — | 🏗️ |
+| 45 | Shell Scripting Basics — Chapters 11 & 12 Complete | Script execution methods (bash/./), the shebang, variables/conditionals/loops — both chapter exams passed at 80% | [View Lab](Day45-Shell-Scripting-Basics.md) | ✅ |
+| 46 | Next Module | Upcoming | — | 🏗️ |
 
 ---
 
@@ -96,3 +97,4 @@ Part of my 100 Days DevOps & Cloud Engineering Challenge.
 1. Daily GitHub Commit Streak — document every day
 2. Principle of Least Privilege (PoLP) across all labs
 3. Complete Linux foundation before moving to AWS repo
+4. Transition to KodeKloud for deeper hands-on, practical labs after Cisco certification
