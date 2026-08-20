@@ -1,85 +1,43 @@
 # 🐧 Linux SysAdmin Journey
 
-Daily documentation of my Linux System Administration learning — commands, concepts, labs & Cisco certifications.
+A daily learning log documenting my path toward becoming a DevOps & Cloud Infrastructure Engineer — commands, concepts, and Linux fundamentals, one day at a time.
 
 Part of my 100 Days DevOps & Cloud Engineering Challenge.
 
 ---
 
-## 📋 Challenge Dashboard
+## 📋 About This Repo
 
-- **Current Phase**: Linux Core Foundations & SysAdmin
+- **Current Phase**: Linux Core Foundations & SysAdmin (Complete) → Moving into hands-on practical labs
 - **Target Role**: DevOps & Cloud Infrastructure Engineer
-- **Learning Source**: Cisco Networking Academy (NDG Linux) → transitioning to KodeKloud for hands-on practice
+- **Learning Source**: Cisco Networking Academy (NDG Linux Essentials) — completed
 - **LinkedIn**: [abdullah-sajid-azure](https://www.linkedin.com/in/abdullah-sajid-azure)
+
+Each day's notes are saved as an individual file in this repo (`Day01`, `Day02`, etc.) — browse the file list above to explore any specific topic.
+
+---
+
+## 📊 Progress Summary
+
+- **45 days** of consistent daily learning and documentation
+- Covered: File systems, permissions, user/group management, process management, networking, archiving/compression, text processing, and shell scripting fundamentals
+- **Cisco Linux Essentials course: Completed** — certificate and badge earned
+- Currently transitioning into hands-on, practical labs via KodeKloud and independent projects
 
 ---
 
 ## 🥇 Certifications
 
-| Certificate | Issuer | Score | Date |
-|---|---|---|---|
-| NDG Linux Unhatched | Cisco | 90% | July 2026 |
-| NDG Linux Essentials | Cisco | In Progress (6 chapters remaining) | — |
+All certificates and badges earned along this journey are tracked in my dedicated [Certifications repo](https://github.com/abdullah-sajid-devops/certifications).
 
 ---
 
 ## 🧪 Related Projects
 
-- [Linux Hands-On Labs](https://github.com/abdullah-sajid-devops/linux-hands-on-labs) — Practical projects combining daily learning into real hands-on tools
+Practical, standalone projects built using the concepts learned here:
 
----
-
-## 📅 100-Day Progress Tracker
-
-| Day | Topic | Key Concepts | Documentation | Status |
-|---|---|---|---|---|
-| 01 | AWS Setup | Initial AWS environment & EC2 instance setup | [View Lab](Day01-AWS-Setup.md) | ✅ |
-| 02 | Linux File System | Storage management, 500MB partitioning, logical layouts | [View Lab](Day02-File-System.md) | ✅ |
-| 03 | Filesystem Hierarchy (FHS) Blueprint | Single root structure `/`, `/bin`, `/etc`, `/var`, `/proc` | [View Lab](Day03-FHS-Blueprint.md) | ✅ |
-| 04 | Linux Basic Commands | 25 basic commands — `df -h`, `ps aux`, `grep`, `wc -l` | [View Lab](Day04-Linux-Basic-Commands.md) | ✅ |
-| 05 | File Operations | 20 file commands — `cat`, `diff`, `cp`, `ln`, `locate` & more | [View Lab](Day05-File-Operations.md) | ✅ |
-| 06 | File Operations Part 2 | 20 file commands — `mv`, `tail -f`, `tar`, `tee`, `sort` & more | [View Lab](Day06-File-Operations-Part2.md) | ✅ |
-| 07 | Directory Operations | 12 commands — `find`, `tree`, `du`, `lsblk`, `mount` & more | [View Lab](Day07-Directory-Operations.md) | ✅ |
-| 08 | File Permissions & Ownership | `chmod`, `chattr`, `chown`, `chgrp` — numeric permissions | [View Lab](Day08-File-Permissions-Ownership.md) | ✅ |
-| 09 | User Management | 15 commands — `useradd`, `userdel`, `passwd`, `whoami` & more | [View Lab](Day09-User-Management.md) | ✅ |
-| 10 | Group Management | 7 commands — `groupadd`, `groupdel`, `gpasswd` & more | [View Lab](Day10-Group-Management.md) | ✅ |
-| 11 | Process Management | 18 commands — `ps`, `top`, `htop`, `kill`, `vmstat` & more | [View Lab](Day11-Process-Management.md) | ✅ |
-| 12 | Terminal & Session Management | 8 commands — `screen`, `tty`, `stty`, `reset` & more | [View Lab](Day12-Terminal-Session-Management.md) | ✅ |
-| 13 | Job Scheduling | 6 commands — `crontab`, `cron`, `at`, `atq`, `batch` | [View Lab](Day13-Job-Scheduling.md) | ✅ |
-| 14 | Disk & File System Commands | 9 commands — `fdisk`, `df`, `mount`, `dump`, `sync` & more | [View Lab](Day14-Disk-FileSystem-Commands.md) | ✅ |
-| 15 | Hardware & System Info | 15 commands — `dmidecode`, `dmesg`, `lshw`, `uname` & more | [View Lab](Day15-Hardware-System-Info.md) | ✅ |
-| 16 | Networking Commands | 28 commands — `ssh`, `scp`, `curl`, `ping`, `iptables` & more | [View Lab](Day16-Networking-Command.md) | ✅ |
-| 17 | Cisco NDG Linux Unhatched Certification | Completed with 90% — Cisco verified badge on Credly | [View Lab](Day17-Cisco-Certification.md) | ✅ |
-| 18 | Cisco Linux Essentials — Module 1 | Linux history, Kernel & GNU, Open Source, Distro families | [View Lab](Day18-NDG-Linux-Essentials-Module1.md) | ✅ |
-| 19 | Cisco Linux Essentials — Module 2 | OS fundamentals, CLI vs GUI, Windows vs macOS vs Linux | [View Lab](Day19-Cisco-Linux-Essentials-Module2.md) | ✅ |
-| 20 | Cisco Linux Essentials — Module 2 Complete | Software release cycles, Linux vs UNIX, Embedded Systems — 100% score! | [View Lab](Day20-Linux-Essentials-Module2-Complete.md) | ✅ |
-| 21 | Cisco Linux Essentials — Module 3 | Advanced Linux Essentials concepts, Module 3 content | [View Lab](Day21-Cisco-Linux-Essentials-Module3.md) | ✅ |
-| 22 | Static vs Dynamic Websites & Web Servers | Static vs Dynamic sites, Apache vs NGINX, load balancing, reverse proxy | [View Lab](Day22-Static-Dynamic-Apache-NGINX.md) | ✅ |
-| 23 | Private Cloud Servers — ownCloud & Nextcloud | Private cloud deployment, ownCloud (2010), Nextcloud fork (2016), GNU AGPLv3 license | [View Lab](Day23-Private-Cloud-Servers.md) | ✅ |
-| 24 | Database Servers — MariaDB & MySQL | MariaDB as a MySQL fork, SQL, data retrieval, DevOps deployment use cases | [View Lab](Day24-Database-Servers.md) | ✅ |
-| 25 | Network Infrastructure — Email, DNS, DHCP, File Sharing | MTA/MDA, POP/IMAP, Dovecot, Samba, NFS, DNS, LDAP, DHCP | [View Lab](Day25-Network-Infrastructure.md) | ✅ |
-| 26 | Linux Desktop & GUI | Desktop ecosystem, email clients, shell families, text editors, office suites, browsers | [View Lab](Day26-Linux-Desktop-GUI.md) | ✅ |
-| 27 | Command Line Skills | Bash shell, prompt structure, commands/options/arguments, ls -l -r -h | [View Lab](Day27-Command-Line-Skills.md) | ✅ |
-| 28 | Linux Variables & Shell Internals | Local vs environment variables, export, unset, $PATH lookup, PATH mistakes | [View Lab](Day28-Linux-Variables-PATH.md) | ✅ |
-| 29 | Command Types — Internal vs External | Builtins vs binaries, type vs which, aliases vs functions, .bashrc persistence | [View Lab](Day29-Command-Types.md) | ✅ |
-| 30 | Bash Quoting & Execution Control | Double/single quotes, backslash, command substitution, `;` `&&` `\|\|` operators | [View Lab](Day30-Bash-Quoting-Execution-Control.md) | ✅ |
-| 31 | Chapter 5 Complete — Command Line Assessment | Chapter 5 exam passed with 90% — command substitution, quoting, control operators | [View Lab](Day31-Chapter5-Complete.md) | ✅ |
-| 32 | Man Pages & File Searching | man sections, whatis, apropos, whereis, locate, updatedb — quiz scored 90% | [View Lab](Day32-Man-Pages-File-Search.md) | ✅ |
-| 33 | Help & Documentation Systems | GNU info navigation, --help flag, /usr/share/doc for third-party docs | [View Lab](Day33-Help-Documentation-Systems.md) | ✅ |
-| 34 | Chapter 6 Complete — Documentation & Search | Chapter 6 exam passed with 90% — man/info, whatis/whereis, locate vs find | [View Lab](Day34-Chapter6-Complete.md) | ✅ |
-| 35 | Chapter 7 — Advanced Command Line | Advanced Chapter 7 content leading into ls/cd deep dive | [View Lab](Day35-Chapter7.md) | ✅ |
-| 36 | ls Flags & cd Shortcuts + Chapter 7 Complete | Combining ls flags (-lsa, -Rsa), direct cd path jumps, Chapter 7 exam 90% | [View Lab](Day36-ls-cd-Shortcuts.md) | ✅ |
-| 37 | Essential Linux Commands — Quick Reference | A recap-style roundup of the most-used commands so far — navigation, permissions, monitoring, networking, help tools | [View Lab](Day37-Essential-Linux-Commands.md) | ✅ |
-| 38 | Globbing, Wildcards & the cp Command | Case sensitivity, UTF-8, glob characters (`* ? [] !`), ls -d, cp basics, overwrite protection (-i/-n), recursive copy (-r/-R) | [View Lab](Day38-Globbing-Wildcards-cp-Command.md) | ✅ |
-| 39 | Project — Linux Server Security & Health Auditor | First hands-on project combining Chapters 1-7: Bash scripting, permissions, user audit, networking, disk/hardware monitoring | [View Lab](Day39-Security-Auditor-Project.md) | ✅ |
-| 40 | Everyday File Management Commands | `mv` (move/rename), `touch` (empty files), `rm` (delete, no recycle bin), `mkdir`, `rmdir` | [View Lab](Day40-mv-touch-rm-mkdir-rmdir.md) | ✅ |
-| 41 | Common Beginner Mistakes in Linux | Reflection post — rm without -i, cp directory errors, silent overwrites, case sensitivity, ls wildcard output | [View Lab](Day41-Common-Beginner-Mistakes.md) | ✅ |
-| 42 | Chapter 8 Complete — File Management Assessment | Chapter 8 exam passed with 90% — mv, touch, rm, mkdir, rmdir, the -i safety habit | [View Lab](Day42-Chapter8-Complete.md) | ✅ |
-| 43 | Archiving & Compression + Midterm Exam | Archiving vs compression, gzip/bzip2/xz, tar (-c/-x/-t), zip — Midterm (Modules 1-9) scored 75% | [View Lab](Day43-Archiving-Compression.md) | ✅ |
-| 44 | Text Processing Commands | `cat`, `less`/`more`, `head`/`tail`, pipe (`\|`), `nl`, `sort`, `wc`, `cut`, `grep` | [View Lab](Day44-Text-Processing-Commands.md) | ✅ |
-| 45 | Shell Scripting Basics — Chapters 11 & 12 Complete | Script execution methods (bash/./), the shebang, variables/conditionals/loops — both chapter exams passed at 80% | [View Lab](Day45-Shell-Scripting-Basics.md) | ✅ |
-| 46 | Next Module | Upcoming | — | 🏗️ |
+- [Linux Server Security & Health Auditor](https://github.com/abdullah-sajid-devops/linux-server-security-auditor) — Automated Bash tool for server security and health auditing
+- [Linux Hands-On Labs](https://github.com/abdullah-sajid-devops/linux-hands-on-labs) — Smaller practical exercises and scripts
 
 ---
 
@@ -88,13 +46,3 @@ Part of my 100 Days DevOps & Cloud Engineering Challenge.
 - **OS**: Ubuntu Server (AWS EC2 / Local VM)
 - **Cloud**: Amazon Web Services (AWS)
 - **Source Control**: Git, GitHub
-- **Certifications**: Cisco Networking Academy
-
----
-
-## 🎯 Repository Goals
-
-1. Daily GitHub Commit Streak — document every day
-2. Principle of Least Privilege (PoLP) across all labs
-3. Complete Linux foundation before moving to AWS repo
-4. Transition to KodeKloud for deeper hands-on, practical labs after Cisco certification
